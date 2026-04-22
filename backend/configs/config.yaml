@@ -1,0 +1,12 @@
+app:
+  port: "8080"
+
+db:
+  host: "host.docker.internal"
+  port: "59212"
+  name: "IT02DB"
+  user: "outpay"
+  password: "tha1land"
+
+jwt:
+  secret: "it02-secret-key-2024"
